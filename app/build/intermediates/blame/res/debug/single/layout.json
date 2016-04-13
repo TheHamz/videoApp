@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag2.xml",
+        "source": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\src\\main\\res\\layout\\frag2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag1.xml",
+        "source": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\src\\main\\res\\layout\\frag1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag3.xml",
+        "source": "C:\\Users\\Sanja\\AndroidStudioProjects\\videoApp\\app\\src\\main\\res\\layout\\frag3.xml"
+    }
+]
